@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="darkTitleBar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="36" />
+    <option name="accentColor" value="1dc7e9" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="7a391c32:16820cdb811:-8000" />
+    <option name="version" value="3.3.0" />
+  </component>
+</application>
