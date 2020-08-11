@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -8,10 +11,10 @@
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="22" />
-    <option name="accentColor" value="1dc7e9" />
+    <option name="accentColor" value="84ffff" />
     <option name="secondAccentColor" value="143739" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="7a391c32:16820cdb811:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
